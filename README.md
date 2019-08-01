@@ -1,5 +1,5 @@
 # Tensorflow Study Example
- 이제 내꺼..hyeryeong
+ 이제 내꺼..hyeryeong 나도나도
 # Version Info
 * Python3.6
 * Tensorflow1.10
